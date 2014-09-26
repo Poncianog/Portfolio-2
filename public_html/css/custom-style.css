@@ -3,6 +3,7 @@ div{
     border-width: 5px;
     border-color: black;
     padding: 25px;
+    
 }
 
 .container{
@@ -24,3 +25,6 @@ div{
 }
 
 
+body{
+    color: white;
+}
